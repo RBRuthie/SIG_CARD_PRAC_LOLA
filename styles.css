@@ -1,0 +1,45 @@
+
+
+*
+{
+  box-sizing: border-box;
+}
+
+.signature-img{
+  height: 109px;
+  border-radius: 109px;
+}
+
+.persoanl-data{
+  display: inline-block;
+  border-left: 2px solid rgb(8, 140, 145);
+  padding-left: 5px;
+  font-family: sans-serif;
+  color: #555;
+}
+
+.name{
+  font-size: 1.1em;
+  color: rgb(8, 140, 145);
+  font-weight: bold;
+}
+
+.title{
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}
+
+.contact-info{
+ display: block;
+ line-height: 1;
+}
+
+.contact-info a{
+  text-decoration: none;
+  color:#555;
+ }
+
+.contact-info-title{
+  color: rgb(8, 140, 145);
+}
+ 
